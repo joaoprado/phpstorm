@@ -1,0 +1,40 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="XML" injector-id="php">
+      <display-name>&lt;&lt;&lt; XML</display-name>
+      <place disabled="true"><![CDATA[phpLiteralExpression("XML")]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="twig">
+      <display-name>block javascript</display-name>
+      <place disabled="true"><![CDATA[twigBlock("javascript")]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="twig">
+      <display-name>custom statement javascript</display-name>
+      <place disabled="true"><![CDATA[twigCustomStatement("script")]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>*/@href</display-name>
+      <value-pattern>^javascript:(.+)</value-pattern>
+      <place disabled="true"><![CDATA[xmlAttribute().withLocalName(string().equalTo("href")).withParent(xmlTag().withNamespace(string().equalTo("http://www.w3.org/1999/xhtml")))]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>*/@on.*</display-name>
+      <place disabled="true"><![CDATA[xmlAttribute().withLocalName(string().startsWith("on")).withParent(xmlTag().withNamespace(string().equalTo("http://www.w3.org/1999/xhtml")))]]></place>
+    </injection>
+    <injection language="CSS" injector-id="xml">
+      <display-name>*/@style</display-name>
+      <prefix>dummy_selector {</prefix>
+      <suffix>}</suffix>
+      <place disabled="true"><![CDATA[xmlAttribute().withLocalName(string().equalTo("style")).inside(xmlTag().withNamespace(string().equalTo("http://www.w3.org/1999/xhtml")))]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>script</display-name>
+      <place disabled="true"><![CDATA[xmlTag().withLocalName(string().equalTo("script")).withNamespace(string().equalTo("http://www.w3.org/1999/xhtml"))]]></place>
+    </injection>
+    <injection language="CSS" injector-id="xml">
+      <display-name>style</display-name>
+      <place disabled="true"><![CDATA[xmlTag().withLocalName(string().equalTo("style")).withNamespace(string().equalTo("http://www.w3.org/1999/xhtml"))]]></place>
+      <xpath-condition>lower-case(@type)='text/css'</xpath-condition>
+    </injection>
+  </component>
+</application>
