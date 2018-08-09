@@ -2,6 +2,142 @@
   <component name="SettingsState">
     <option name="host" value="https://gitlab.com" />
     <option name="token" value="bQmgDSC4KVyb6b1AfZur" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/company.git" />
+          <option name="name" value="company" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/company.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/helipa.git" />
+          <option name="name" value="helipa" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/helipa.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/php-client.git" />
+          <option name="name" value="php-client" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/php-client.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/processamentosv2.git" />
+          <option name="name" value="processamentosv2" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/processamentosv2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/rocinha.git" />
+          <option name="name" value="rocinha" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/rocinha.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/Souk.git" />
+          <option name="name" value="Souk" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/Souk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/souk_api.git" />
+          <option name="name" value="souk_api" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/souk_api.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/souk_connections.git" />
+          <option name="name" value="souk_connections" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/souk_connections.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/souk_deploy.git" />
+          <option name="name" value="souk_deploy" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/souk_deploy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/souk_site.git" />
+          <option name="name" value="souk_site" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/souk_site.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/souk_web.git" />
+          <option name="name" value="souk_web" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/souk_web.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/company.git" />
+          <option name="name" value="company" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/company.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/helipa.git" />
+          <option name="name" value="helipa" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/helipa.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/php-client.git" />
+          <option name="name" value="php-client" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/php-client.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/processamentosv2.git" />
+          <option name="name" value="processamentosv2" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/processamentosv2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/rocinha.git" />
+          <option name="name" value="rocinha" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/rocinha.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/Souk.git" />
+          <option name="name" value="Souk" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/Souk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/souk_api.git" />
+          <option name="name" value="souk_api" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/souk_api.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/souk_connections.git" />
+          <option name="name" value="souk_connections" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/souk_connections.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/souk_deploy.git" />
+          <option name="name" value="souk_deploy" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/souk_deploy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/souk_site.git" />
+          <option name="name" value="souk_site" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/souk_site.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/soukbrasil/souk_web.git" />
+          <option name="name" value="souk_web" />
+          <option name="namespace" value="souk" />
+          <option name="sshUrl" value="git@gitlab.com:soukbrasil/souk_web.git" />
+        </ProjectDto>
+      </list>
+    </option>
     <option name="servers">
       <list>
         <ServerDto>
