@@ -38,7 +38,7 @@
           <IdeaActionID>FileChooser.NewFolder</IdeaActionID>
           <ShortCut>'Alt+Insert' or 'Ctrl+N'</ShortCut>
           <Description>New Folder...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from X clipboard">
