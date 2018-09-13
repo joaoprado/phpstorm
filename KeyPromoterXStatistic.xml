@@ -33,6 +33,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Inspect Code...">
+        <Item>
+          <IdeaActionID>InspectCode</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Inspect Code...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump to Console...">
         <Item>
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
