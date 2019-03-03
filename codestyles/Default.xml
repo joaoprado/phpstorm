@@ -1,7 +1,6 @@
 <code_scheme name="Default" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
@@ -23,9 +22,6 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
-  <yaml>
-    <option name="INDENT_SEQUENCE_VALUE" value="true" />
-  </yaml>
   <codeStyleSettings language="JSON">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
