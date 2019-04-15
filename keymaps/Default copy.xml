@@ -3,6 +3,11 @@
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="Console.TableResult.SetDefault" />
   <action id="CopyReference" />
   <action id="EditorAddOrRemoveCaret">
