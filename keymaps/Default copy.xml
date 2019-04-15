@@ -2,6 +2,9 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="ActivateDockerToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateTerminalToolWindow">

@@ -9,6 +9,9 @@
     <option name="HIGHLIGHT_BRACES" value="false" />
     <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_SMALL_ICONS_IN_GUTTER" value="false" />
+  </component>
   <component name="JSCodeFoldingSettings">
     <option name="collapseArrayLiterals" value="true" />
     <option name="collapseObjectLiterals" value="true" />
