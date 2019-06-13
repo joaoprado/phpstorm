@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".playground" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="publish" type="PLAIN_TEXT" />
