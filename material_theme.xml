@@ -1,15 +1,16 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.9.0-pre1" />
-    <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="009688" />
+    <option name="darkTitleBar" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="darkTitleBar" value="true" />
-    <option name="monochromeIcons" value="true" />
-    <option name="userId" value="-7a5d7ded:164ecadc59b:-8000" />
+    <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="monochromeIcons" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="accentColor" value="00bcd4" />
+    <option name="selectedTheme" value="LIGHTER" />
+    <option name="userId" value="-7a5d7ded:164ecadc59b:-8000" />
+    <option name="version" value="3.10.0" />
   </component>
 </application>
