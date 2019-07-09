@@ -153,6 +153,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Synchronize">
+        <Item>
+          <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Y'</ShortCut>
+          <Description>Synchronize</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Synchronize 'QueueLoad/……/Factories'">
         <Item>
           <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
