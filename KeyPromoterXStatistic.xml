@@ -38,7 +38,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>12</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Inspect Code...">
@@ -185,11 +185,35 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Synchronize 'bootstrap/cache'">
+        <Item>
+          <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
+          <Description>Synchronize 'bootstrap/cache'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Synchronize 'logs'">
         <Item>
           <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Synchronize 'logs'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize 'resources/…/vendor'">
+        <Item>
+          <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
+          <Description>Synchronize 'resources/…/vendor'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize 'resources/…iews/vendor'">
+        <Item>
+          <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
+          <Description>Synchronize 'resources/…iews/vendor'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
