@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Docker: Dockerfile detection" shouldLog="false" />
+    <notification groupId="PHP External Quality Tools" shouldLog="false" />
   </component>
 </application>
