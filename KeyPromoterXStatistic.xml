@@ -209,6 +209,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Synchronize '2019_07_16…s_table.php'">
+        <Item>
+          <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
+          <Description>Synchronize '2019_07_16…s_table.php'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Synchronize 'QueueLoad/……/Factories'">
         <Item>
           <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
@@ -230,6 +238,14 @@
           <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Synchronize 'logs'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize 'migrations'">
+        <Item>
+          <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
+          <Description>Synchronize 'migrations'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
