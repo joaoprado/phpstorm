@@ -14,7 +14,7 @@
           <IdeaActionID>Console.TableResult.CloneRow</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Clone Row</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
