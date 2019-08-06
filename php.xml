@@ -8,9 +8,8 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/bin/php" id="1819feb7-5402-4276-850d-ae325aae1bae" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-      <interpreter home="docker://dev_workspace:latest//usr/bin/php" id="459fe109-f844-49c0-a7d1-819c5dc9f582" name="dev_workspace:latest" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="dev_workspace:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter id="459fe109-f844-49c0-a7d1-819c5dc9f582" name="dev_workspace:latest" home="docker://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="dev_workspace:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
     </interpreters>
   </component>
