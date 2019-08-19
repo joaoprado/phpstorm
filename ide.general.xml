@@ -2,6 +2,7 @@
   <component name="GeneralSettings">
     <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
+    <option name="defaultProjectDirectory" value="$USER_HOME$/Code" />
     <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
     <option name="useSafeWrite" value="false" />
