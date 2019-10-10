@@ -1,0 +1,23 @@
+<templateSet group="PHP Souk">
+  <template name="sid" value="Status::type($CONSTANT$)-&gt;id$END$" description="Get the status ID" toReformat="false" toShortenFQNames="true">
+    <variable name="CONSTANT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="spid" value="Status::type(Status::PENDING)-&gt;id" description="Status ID for Pending type" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="said" value="Status::type(Status::APPROVED)-&gt;id" description="Status ID for Approved type" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="scid" value="Status::type(Status::CANCELED)-&gt;id" description="Status ID for Canceled type" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
