@@ -23,11 +23,9 @@
   <action id="Console.TableResult.SetDefault" />
   <action id="CopyReference" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
+  <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="control button1" />
   </action>
-  <action id="EditorAddOrRemoveCaret" />
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
@@ -53,6 +51,9 @@
   </action>
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="NavBar-navigate">
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="PhpDetectPsroRoots">
     <keyboard-shortcut first-keystroke="alt n" />
