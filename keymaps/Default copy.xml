@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f10" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -20,9 +23,11 @@
   <action id="Console.TableResult.SetDefault" />
   <action id="CopyReference" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
-  <action id="EditorAddOrRemoveCaret">
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="EditorAddOrRemoveCaret" />
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
@@ -30,6 +35,9 @@
   <action id="ExpressionTypeInfo" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
@@ -65,6 +73,7 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl f9" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="shift ctrl f5" />
@@ -74,6 +83,7 @@
   <action id="UnselectPreviousOccurrence" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl f11" />
+    <mouse-shortcut keystroke="button4" />
   </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="ctrl f12" />
