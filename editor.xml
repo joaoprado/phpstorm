@@ -1,7 +1,18 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_METHODS" value="true" />
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="HIGHLIGHT_BRACES" value="false" />
+    <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="IBM Plex Mono" />
     <option name="LINE_SPACING" value="1.5" />
     <option name="USE_LIGATURES" value="true" />
   </component>
@@ -29,8 +40,19 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
+  <component name="JSCodeFoldingSettings">
+    <option name="collapseArrayLiterals" value="true" />
+    <option name="collapseObjectLiterals" value="true" />
+    <option name="collapseOneLineFunctions" value="true" />
+    <option name="COLLAPSE_OBJECT_LITERALS" value="true" />
+    <option name="COLLAPSE_ARRAY_LITERALS" value="true" />
+  </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+  </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_FUNCTION_BODY" value="true" />
+    <option name="COLLAPSE_METHOD_BODY" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
