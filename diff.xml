@@ -7,6 +7,11 @@
           <option name="READ_ONLY_LOCK" value="false" />
         </PlaceSettings>
       </entry>
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="HIGHLIGHTING_LEVEL" value="SIMPLE" />
+        </PlaceSettings>
+      </entry>
       <entry key="Merge">
         <PlaceSettings>
           <option name="HIGHLIGHTING_LEVEL" value="SIMPLE" />
