@@ -4,7 +4,7 @@
     <property name="created">2017-07-12T22:04:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2019-03-27T16:20:00</property>
+    <property name="modified">2020-02-02T16:30:11</property>
     <property name="originalScheme">Github 2016 jgrossi copy</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
@@ -32,7 +32,7 @@
     <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="INDENT_GUIDE" value="efefef" />
     <option name="LINE_NUMBERS_COLOR" value="888888" />
-    <option name="METHOD_SEPARATORS_COLOR" value="e9e9e9" />
+    <option name="METHOD_SEPARATORS_COLOR" value="f9f9f9" />
     <option name="NOTIFICATION_BACKGROUND" value="f67c78" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
@@ -691,6 +691,9 @@
         <option name="FOREGROUND" value="183691" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="d73a49" />
@@ -908,6 +911,14 @@
       <value>
         <option name="FOREGROUND" value="da564a" />
       </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
     </option>
     <option name="LABEL">
       <value>
@@ -13076,7 +13087,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="eeeeee" />
+        <option name="BACKGROUND" value="99ccbb" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
