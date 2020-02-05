@@ -28,6 +28,7 @@
   </action>
   <action id="EditorSplitLine" />
   <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
@@ -49,9 +50,13 @@
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="NavBar-navigate">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="ParameterInfo" />
   <action id="PhpDetectPsroRoots">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
