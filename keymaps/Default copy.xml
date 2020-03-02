@@ -1,9 +1,9 @@
 <keymap version="1" name="Default copy" parent="Default for XWin">
-  <action id="ActivateDockerToolWindow">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
-  <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateFindToolWindow" />
+  <action id="ActivateRunToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt 3" />
