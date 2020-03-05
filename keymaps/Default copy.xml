@@ -86,6 +86,9 @@
   </action>
   <action id="TableResult.UnselectPreviousOccurrence" />
   <action id="ToggleBookmarkWithMnemonic" />
+  <action id="Tool_External Tools_masterpull">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="UnselectPreviousOccurrence" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl f11" />
@@ -95,11 +98,15 @@
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
   <action id="UpdateRunningApplication" />
+  <action id="Vcs.ToggleAmendCommitMode" />
   <action id="ViewImportPopups">
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
   <action id="ViewSource" />
   <action id="com.jetbrains.php.composer.addDependency.ComposerAddDependencyAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
+    <keyboard-shortcut first-keystroke="shift alt m" />
   </action>
 </keymap>
