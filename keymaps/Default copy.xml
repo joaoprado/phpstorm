@@ -63,6 +63,10 @@
   <action id="PhpGeneratePhpDocBlocks">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
+  <action id="RecentLocations">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
@@ -99,6 +103,7 @@
   </action>
   <action id="UpdateRunningApplication" />
   <action id="Vcs.ToggleAmendCommitMode" />
+  <action id="Vcs.UpdateProject" />
   <action id="ViewImportPopups">
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
