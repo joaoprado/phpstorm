@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="fn" value="fn ($TYPE$ $INSTANCE$) =&gt; $INSTANCE$$END$" description="PHP arrow function" toReformat="false" toShortenFQNames="true">
+    <variable name="INSTANCE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
