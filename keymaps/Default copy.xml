@@ -32,6 +32,10 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
@@ -56,6 +60,7 @@
   <action id="NavBar-navigate">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="NextDiff" />
   <action id="ParameterInfo" />
   <action id="PhpDetectPsroRoots">
     <keyboard-shortcut first-keystroke="alt n" />
@@ -85,6 +90,7 @@
     <keyboard-shortcut first-keystroke="ctrl f9" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="StepInto" />
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="shift ctrl f5" />
   </action>
