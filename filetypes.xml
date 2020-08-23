@@ -5,6 +5,7 @@
       <mapping pattern=".playground" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern="phpstan" type="PLAIN_TEXT" />
       <mapping pattern="publish" type="PLAIN_TEXT" />
       <mapping pattern="docker-env" type="PLAIN_TEXT" />
       <mapping pattern=".aliases" type="PLAIN_TEXT" />
