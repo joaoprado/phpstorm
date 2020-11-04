@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="hostfile" type="PLAIN_TEXT" />
-      <mapping pattern=".playground" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".playground" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="phpstan" type="PLAIN_TEXT" />
       <mapping pattern="publish" type="PLAIN_TEXT" />
