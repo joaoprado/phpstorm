@@ -1617,6 +1617,11 @@
                       <FeaturePluginData displayName="PHPUnit" pluginName="PHP" pluginId="com.jetbrains.php" />
                     </value>
                   </entry>
+                  <entry key="PestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Pest" pluginName="Pest" pluginId="com.pestphp.pest-intellij" />
+                    </value>
+                  </entry>
                   <entry key="PhpBuiltInWebServerConfigurationType">
                     <value>
                       <FeaturePluginData displayName="PHP Built-in Web Server" pluginName="PHP" pluginId="com.jetbrains.php" />
