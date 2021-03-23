@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Makefile" type="AUTO_DETECTED" />
       <mapping pattern="hostfile" type="PLAIN_TEXT" />
       <mapping pattern=".playground" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
