@@ -719,6 +719,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.pb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="idea.plugin.protoeditor" />
+              <option name="myPluginName" value="Protocol Buffer Editor" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.pbm">
           <value>
             <plugin>
@@ -890,6 +898,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.proto">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="idea.plugin.protoeditor" />
+              <option name="myPluginName" value="Protocol Buffer Editor" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.psd">
           <value>
             <plugin>
@@ -1047,6 +1063,14 @@
             <plugin>
               <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
               <option name="myPluginName" value="CSV Plugin" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.textproto">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="idea.plugin.protoeditor" />
+              <option name="myPluginName" value="Protocol Buffer Editor" />
             </plugin>
           </value>
         </entry>
