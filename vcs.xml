@@ -15,7 +15,7 @@
     <option name="cloneParentDir" value="$USER_HOME$/Code/projects/pessoal" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
+    <option name="SHOW_LST_ERROR_STRIPE_MARKERS" value="false" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>

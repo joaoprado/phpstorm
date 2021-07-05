@@ -30,6 +30,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
