@@ -1,9 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="csv" type="CSV" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
       <mapping pattern=".playground" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
@@ -21,8 +18,9 @@
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="mhtml" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="TSV" />
       <mapping pattern="productsRequests" type="YAML" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <mapping pattern="init" type="Bash" />
     </extensionMap>
   </component>
