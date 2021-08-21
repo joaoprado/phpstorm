@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
+    <option name="customScope" value="Project 'rocinha'" />
+    <option name="defaultScopeName" value="Project 'rocinha'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="SEARCH_SCOPE" value="Project 'rocinha'" />
   </component>
 </application>
