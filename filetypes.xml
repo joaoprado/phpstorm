@@ -13,6 +13,7 @@
       <mapping pattern=".aliases" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="publish" type="PLAIN_TEXT" />
+      <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="mhtml" type="PLAIN_TEXT" />
