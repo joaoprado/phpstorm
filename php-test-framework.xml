@@ -1,0 +1,13 @@
+<application>
+  <component name="PhpTestFrameworkSettings">
+    <test_tools>
+      <tool tool_name="Pest">
+        <settings>
+          <configurations>
+            <configuration_by_sdk interpreter_id="039a50a3-22de-4eb7-99b3-399481b09186" configuration_file_path="/opt/project/phpunit.xml" executable_path="/opt/project/vendor/bin/pest" use_configuration_file="true" />
+          </configurations>
+        </settings>
+      </tool>
+    </test_tools>
+  </component>
+</application>
