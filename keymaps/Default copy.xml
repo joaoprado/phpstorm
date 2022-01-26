@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="ActivateCodeStreamToolWindow">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
