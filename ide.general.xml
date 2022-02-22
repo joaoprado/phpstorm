@@ -25,6 +25,7 @@
       <map>
         <entry key="CodeStream.StatusBar" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="ReadOnlyAttribute" value="false" />
       </map>
     </option>
   </component>
